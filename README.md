@@ -24,3 +24,6 @@ are likely to leave the bank.
 
 ## 📁 Dataset
 [Churn Modelling Dataset - Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
+
+## 🔗 Other Projects
+-[Fraud Detection Project](https://github.com/Frekizzle3/Fraud-Detection-Project)
